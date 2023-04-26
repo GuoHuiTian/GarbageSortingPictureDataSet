@@ -9,3 +9,5 @@
 ![image](https://user-images.githubusercontent.com/131667281/234495204-97142548-b47f-4027-84d2-ade5be62bafa.png)
 
 
+在Garbage_images_spyder目录下包含着不同大类的垃圾图片爬取代码，并且不同的图片名称通过图片类型制作目录下的代码自动创建。读者可以自行研究并进行修改，可以爬取更多类型的图片。
+
